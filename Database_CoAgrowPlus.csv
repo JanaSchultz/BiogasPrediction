@@ -1,0 +1,25 @@
+ID;Describtion ;Short;WC;VS;P;Rm;l;C;N;methane
+x1;Corn_Stalks_Behaira;C_S_B;0.06;0.96;489.4;41.8;-0.07;470;6.2;0.59
+x2;Corn_Stalks_Sharkia;C_S_S;0.06;0.9;392.4;41.8;-0.07;440;6.9;0.62
+x3;Grape_Prunings_Gharbia;G_P_G;0.08;0.95;298.5;16.4;-0.52;480;6.1;0.61
+x4;Orange_Prunings_Gharbia;O_P_G;0.09;0.93;378.5;11;-5.46;460;6.9;0.63
+x5;Rice_Straw_Behaira;R_S_B;0.08;0.81;450.6;41.4;0.15;380;5.2;0.57
+x6;Rice_Straw_Sharkia;R_S_S;0.07;0.79;475.9;43.1;0.16;390;6.2;0.56
+x7;Sugar_Cane_Cairo;S_C_C;0.07;0.99;467.7;29.5;-2.72;470;3;0.56
+x8;Palm_tree_Aswan;P_T_As;0.0468;0.8785;295.77;10.97;-2.42;450;5.9;0.6125
+x9;Sugarcane_reed_Aswan;S_R_As;0.0525;0.9227;503.95;34.28;-2.44;440;7.3;0.5877
+x10;Maize_stalks_Aswan;M_S_As;0.045;0.9437;472.15;23.14;-1.99;456;4.9;0.6053
+x11;Sorghum_stalks_Aswan;S_S_As;0.0607;0.9199;503.67;31.88;-2.53;440;4.8;0.5814
+x12;Mango_Guava_Pruning_Aswan;M_G_P_As;0.0578;0.8431;224.14;12.04;-3.12;430;7;0.6105
+x13;Grapes_Pruning_Aswan;G_P_As;0.0662;0.7777;382.6;62.44;-0.68;400;14;0.5966
+x14;Lemon_Pruning_Aswan;L_P_As;0.0638;0.7742;360.2;34.65;-2.14;410;9.1;0.5987
+x15;Banana_Pruning_Aswan ;B_P_As;0.0414;0.8622;422.3;30.56;-1.1;420;4.3;0.5996
+x16;Pampas_Grass_Aswan;P_G_As;0.0354;0.9092;353.97;15.22;-2.42;440;5.2;0.6123
+x17;Rice_Straw_Al-sharqia;R_S_Ah;0.0419;0.8401;511.02;38;-0.75;400;6;0.5872
+x18;Maize_Stalks_Al-sharqia;M_A_Sh;0.048;0.9386;512.73;27.78;-2.35;450;4.6;0.6024
+x19;Wheat_Straw_Al-sharqia;W_S_Sh;0.0405;0.8588;524.27;28.33;-2.6;420;4.6;0.5929
+x20;Rice_Straw_Baheira;R_S_Ba;0.0506;0.8285;446.55;37.13;-0.33;390;7.7;0.6172
+x21;Maize_Stalks_Baheira;M_S_Ba;0.056;0.9054;451.73;21.05;-3.01;440;8.5;0.6086
+x22;Wheat_Straw_Baheira;W_S_Ba;0.0543;0.9099;524.1;27.99;-1.7;430;5.6;0.6287
+x23;Sugarcane_reed_Cairo;S_R_Ca;0.0374;0.9607;488.18;29.81;-1.71;460;2.5;0.6312
+x24;Goat_Dung;GD;0.0916;0.694;221.28;10.9;-1.38;340;15;0.6
